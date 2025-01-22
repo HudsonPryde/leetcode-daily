@@ -1,0 +1,14 @@
+{
+  "activestate.promptRuntimeCreation": false,
+  "editor.tabSize": 4,
+  "files.associations": {
+    "*.sass": "scss",
+    "xstring": "cpp",
+    "string": "cpp",
+    "xlocale": "cpp",
+    "vector": "cpp",
+    "xtree": "cpp",
+    "set": "cpp",
+    "map": "cpp"
+  }
+}
